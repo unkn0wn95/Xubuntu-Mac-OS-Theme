@@ -1,5 +1,5 @@
 # Xubuntu-Mac-OS-Theme
 Make xubuntu becoming Mac OS
 
-##Usage
+## Usage
 Paste all the folder inside /home/{$user}
